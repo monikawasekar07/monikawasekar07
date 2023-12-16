@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJs technology**
 
-- 💬 Ask me about **html,css**
+- 💬 Ask me about **html,css,reactjs**
 
 - 📫 How to reach me **monikawasekar07@gmail.com**
 
