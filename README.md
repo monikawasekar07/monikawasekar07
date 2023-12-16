@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monikawasekar07&label=Profile%20views&color=0e75b6&style=flat" alt="monikawasekar07" /> </p>
 
-- 🌱 I’m currently learning **ReactJs technology**
+- 🌱 I’m currently looking for  **web developer roles**
 
 - 💬 Ask me about **html,css,reactjs**
 
